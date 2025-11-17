@@ -1,5 +1,5 @@
 # Ai-ethics-fairness-audit
-Part 1: Theoretical Understanding (30%)
+Part 1: Theoretical Understanding 
 1. Short Answer Questions
 
 Q1: Define algorithmic bias and provide two examples of how it manifests in AI systems.
